@@ -1,7 +1,9 @@
 Welcome to the Remote-Controlled-Plant-Watering-Robot wiki! Components:
 
 Arduino Nano: The central microcontroller.
+
 4x DC Motors : For 4 wheels
+
 1 Channel Relay Module (5V): Controls the watering pump.
 
 Bluetooth Module (HC-05): Enables remote control via Bluetooth.
