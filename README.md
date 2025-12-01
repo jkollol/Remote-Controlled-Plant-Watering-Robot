@@ -1,3 +1,7 @@
+
+![Image Alt](https://github.com/jkollol/Remote-Controlled-Plant-Watering-Robot/blob/7f400a5d6631762a1d157f1817d2a48748fff94a/IMG_7358.jpeg)
+
+
 Welcome to the Remote-Controlled-Plant-Watering-Robot wiki! Components:
 
 Arduino Nano: The central microcontroller.
