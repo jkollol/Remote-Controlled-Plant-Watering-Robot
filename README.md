@@ -2,11 +2,12 @@
 ![Image Alt](https://github.com/jkollol/Remote-Controlled-Plant-Watering-Robot/blob/7f400a5d6631762a1d157f1817d2a48748fff94a/IMG_7358.jpeg)
 
 
-Welcome to the Remote-Controlled-Plant-Watering-Robot wiki! Components:
+My team has successfully built a remote-controlled plant watering robot that combines innovation, functionality, and practicality and we participated the robotics project showcase 2024 for the course 'Introduction to robotics' . Here’s a breakdown of our creation:
+Project Description: Remote-Controlled Plant Watering Robot
+
+Components:
 
 Arduino Nano: The central microcontroller.
-
-4x DC Motors : For 4 wheels
 
 1 Channel Relay Module (5V): Controls the watering pump.
 
@@ -34,7 +35,8 @@ Assembly: Integrated the Arduino Nano with the relay module, Bluetooth module, a
 
 Programming: Wrote code to process Bluetooth commands for movement and watering.
 
-Check out the full code:
+Check out the full code: 
+https://lnkd.in/gfrSXJCS
 
 Operation: Use a mobile app to remotely control the robot, moving it to the desired plant location and activating the watering system.
 
@@ -45,6 +47,7 @@ Innovation in Automation: A step towards smarter gardening solutions.
 Practical Application: Perfect for maintaining plants, especially in large gardens or greenhouses.
 
 Learning Experience: Enhanced our skills in robotics, programming, and teamwork.
+Project Video : https://lnkd.in/g2KqfB5U
 
 Special Thanks to our Team 'Nocturnals' :
 
